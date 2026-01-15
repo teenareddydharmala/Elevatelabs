@@ -78,6 +78,3 @@ The **Attack Surface** is the sum of all "entry points" (Web, Mobile, APIs, Netw
 **VII. Summary**
 Cybersecurity is the strategic defense of the **CIA Triad** using **Defense in Depth** and **Zero Trust**. By understanding **Threat Actors** and the **Cyber Kill Chain**, we can proactively reduce our **Attack Surface** and mitigate **OWASP Top 10: 2025** risks throughout the entire **Data Flow** cycle.
 
----
-
-**Would you like me to generate a set of mock exam questions based on this doctrine to test your retention?**
